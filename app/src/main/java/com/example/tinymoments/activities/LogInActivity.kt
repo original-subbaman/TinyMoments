@@ -1,8 +1,9 @@
-package com.example.tinymoments
+package com.example.tinymoments.activities
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.tinymoments.R
 
 class LogInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
